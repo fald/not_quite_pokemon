@@ -3,9 +3,10 @@
 
 If you're not Russ, why are you here?
 
-# Complete:
-
 # Exist:
+Diglett
+
+# Complete:
 
 # Planned:
 Bulbasaur  
@@ -28,7 +29,6 @@ Zubat
 Oddish  
 Paras  
 Venonat  
-Diglett  
 Meowth  
 Psyduck  
 Mankey  
