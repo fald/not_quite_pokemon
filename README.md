@@ -4,9 +4,9 @@
 If you're not Russ, why are you here?
 
 # Exist:
-Diglett
 
 # Complete:
+Diglett
 
 # Planned:
 Bulbasaur  
