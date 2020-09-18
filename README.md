@@ -3,12 +3,11 @@
 
 If you're not Russ, why are you here?
 
-# Exist:
+# Complete:  
+Diglett  
+Voltorb  
 
-
-# Complete:
-Diglett
-Voltorb
+# Exist:  
 
 # Planned:
 ## No skeleton:
