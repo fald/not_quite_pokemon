@@ -4,32 +4,50 @@
 If you're not Russ, why are you here?
 
 # Exist:
-Voltorb
+
 
 # Complete:
 Diglett
+Voltorb
 
 # Planned:
+## No skeleton:
+Gastly
+Koffing
+
+## Snakes:
+Ekans
+Caterpie
+Weedle
+Dratini
+
+## Rounded
+Jigglypuff
+Clefairy
+Snorlax
+Magnemite
+Oddish
+Venonat
+Geodude
+
+## 2-leg
+
+## 4-leg
+
+
 Bulbasaur  
 Charmander  
 Squirtle  
-Caterpie  
-Weedle  
 Pidgey  
 Rattata  
 Spearow  
-Ekans  
 Pikachu  
 Sandshrew  
 Nidoran F  
-Nidoran M  
-Clefairy  
+Nidoran M    
 Vulpix  
-Jigglypuff  
 Zubat  
-Oddish  
 Paras  
-Venonat  
 Meowth  
 Psyduck  
 Mankey  
@@ -39,16 +57,13 @@ Abra
 Machop  
 Bellsprout  
 Tentacool  
-Geodude  
 Ponyta  
 Slowpoke  
-Magnemite  
 Farfetch'd  
 Doduo  
 Seel  
 Grimer (?????)  
 Shellder  
-Gastly  
 **Onix?**  
 Drowzee  
 Krabby
@@ -56,7 +71,6 @@ Exeggcute
 Cubone  
 **Hitmondudes (?)**  
 **Lickitung (?)**  
-Koffing  
 Rhyhorn (lol no)  
 **Chansey (?)**  
 Tangela  
@@ -78,9 +92,7 @@ Eevee
 Porygon (Ez)  
 Omanyte  
 Kabuto  
-**Aerodactyl (?)**  
-Snorlax  
-Dratini  
+**Aerodactyl (?)**    
 **The bords of legend (?)**  
 Mew  
 **Mewtwo (?)**  
