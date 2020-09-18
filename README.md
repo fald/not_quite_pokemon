@@ -4,6 +4,7 @@
 If you're not Russ, why are you here?
 
 # Exist:
+Voltorb
 
 # Complete:
 Diglett
@@ -50,8 +51,7 @@ Shellder
 Gastly  
 **Onix?**  
 Drowzee  
-Krabby  
-Voltorb (lol)  
+Krabby
 Exeggcute  
 Cubone  
 **Hitmondudes (?)**  
