@@ -6,9 +6,10 @@ If you're not Russ, why are you here?
 # Complete:  
 Diglett  
 Voltorb  
+Gastly  
 
 # Exist:  
-Gastly
+Dratini
 
 # Planned:
 ## No skeleton:
@@ -19,7 +20,6 @@ Onyx
 Ekans  
 Caterpie  
 Weedle  
-Dratini  
   
 ## Rounded  
 Jigglypuff  
