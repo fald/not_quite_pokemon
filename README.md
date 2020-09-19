@@ -6,10 +6,10 @@ If you're not Russ, why are you here?
 # Complete:  
 Diglett  
 Voltorb  
-Gastly  
 
 # Exist:  
 Dratini
+Gastly (Fix mouth pivot)
 
 # Planned:
 ## No skeleton:
