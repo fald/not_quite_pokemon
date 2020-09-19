@@ -8,91 +8,91 @@ Diglett
 Voltorb  
 
 # Exist:  
+Gastly
 
 # Planned:
 ## No skeleton:
-Gastly
 Koffing
 
-## Snakes:
-Ekans
-Caterpie
-Weedle
-Dratini
+## Snakes:  
+Onyx  
+Ekans  
+Caterpie  
+Weedle  
+Dratini  
+  
+## Rounded  
+Jigglypuff  
+Clefairy  
+Snorlax  
+Magnemite  
+Oddish  
+Venonat  
+Geodude  
+Poliwag  
+Exeggcute  
+Chansey  
+Goldeen  
 
-## Rounded
-Jigglypuff
-Clefairy
-Snorlax
-Magnemite
-Oddish
-Venonat
-Geodude
-
-## 2-leg
-
-## 4-leg
-
-
-Bulbasaur  
+## 2-leg  
 Charmander  
 Squirtle  
 Pidgey  
-Rattata  
 Spearow  
 Pikachu  
 Sandshrew  
-Nidoran F  
-Nidoran M    
-Vulpix  
-Zubat  
-Paras  
 Meowth  
 Psyduck  
 Mankey  
-Growlithe  
-Poliwag  
 Abra  
 Machop  
 Bellsprout  
-Tentacool  
-Ponyta  
-Slowpoke  
 Farfetch'd  
 Doduo  
-Seel  
-Grimer (?????)  
-Shellder  
-**Onix?**  
 Drowzee  
-Krabby
-Exeggcute  
 Cubone  
-**Hitmondudes (?)**  
-**Lickitung (?)**  
-Rhyhorn (lol no)  
-**Chansey (?)**  
+Hitmonlee  
+Hitmonchan  
+Lickitung  
 Tangela  
-**Kangaskhan (prob no)**  
-Horsea  
-Goldeen  
-Staryu  
-**Mr. Mime (?)**  
-**Scyther (?)**  
-**Jynx (?)**  
-**Electabuzz (?)**  
-**Magmar (?)**  
-**Pinsir (?)**  
-**Tauros (...a torus hueheuhueheuheuheuheuheuheuheueheuhe)**  
-Magikarp  
-**Lapras (?)**  
-**Ditto (?)**  
-Eevee  
-Porygon (Ez)  
-Omanyte  
-Kabuto  
-**Aerodactyl (?)**    
-**The bords of legend (?)**  
+Kangaskhan  
+Mr. Mime  
+Scyther  
+Jynx  
+Electabuzz  
+Magmar  
+Pinsir  
+Lapras  
 Mew  
-**Mewtwo (?)**  
+Mewtwo  
 
+## 4-leg  
+Bulbasaur  
+Rattata  
+Nidoran F  
+Nidoran M  
+Vulpix  
+Paras  
+Growlithe  
+Ponyta  
+Slowpoke  
+Krabby  
+Rhyhorn  
+Tauros  
+Eevee  
+Kabuto  
+
+## Other  
+Zubat  
+Tentacool  
+Seel  
+Grimer  
+Shellder  
+Horsea  
+Staryu  
+Magikarp  
+Ditto  
+Porygon  
+Omanyte  
+Aerodactyl  
+Bords of Legend  
