@@ -6,10 +6,11 @@ If you're not Russ, why are you here?
 # Complete:  
 Diglett  
 Voltorb  
+Dratini
+Gastly
 
 # Exist:  
-Dratini
-Gastly (Fix mouth pivot)
+Slowpoke
 
 # Planned:
 ## No skeleton:
@@ -75,7 +76,6 @@ Vulpix
 Paras  
 Growlithe  
 Ponyta  
-Slowpoke  
 Krabby  
 Rhyhorn  
 Tauros  
