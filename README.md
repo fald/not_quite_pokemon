@@ -5,8 +5,6 @@ If you're not Russ, why are you here?
 
 # Issues:
 - Dratini, self-intersecting polygon?
-- Dratini, is stairs?
-- Gastly, self-intersecting polygon?
 
 
 # Complete:  
