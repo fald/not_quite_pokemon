@@ -14,7 +14,7 @@ Dratini
 Gastly
 
 # Exist:  
-Slowpoke
+Slowpoke - needs mouth anim. and base pose
 
 # Planned:
 ## No skeleton:
