@@ -5,6 +5,7 @@ If you're not Russ, why are you here?
 
 # Issues:
 - Dratini, self-intersecting polygon?
+- Dratini ears
 
 
 # Complete:  
@@ -12,15 +13,16 @@ Diglett
 Voltorb  
 Dratini
 Gastly
+Slowpoke
 
 # Exist:  
-Slowpoke
+Kabuto  
 
 # Planned:
 ## No skeleton:
 Koffing
 
-## Snakes:  
+## Snakes (Unity doesn't like the snake bones :():  
 Onyx  
 Ekans  
 Caterpie  
@@ -84,7 +86,6 @@ Krabby
 Rhyhorn  
 Tauros  
 Eevee  
-Kabuto  
 
 ## Other  
 Zubat  
